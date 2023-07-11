@@ -3,27 +3,28 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+R+Sahro+Romadoni;I+am+a+Backed+Developer;Web+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&vCenter=true&center=true&width=435&lines=TypeError%3A+cannot+read+property+of+undefined;InternalError%3A+too+much+recursion;UnchaughtError%3A+property+is+not+defined;SyntaxError%3A+Unexpected+token"></a>
 </p>
 
 ---
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : soon
-  
+
 🌱 I’m currently learning : Node.js and Express
 
-👯 I’m looking to collaborate on my webpage
+⚡ Fun fact: im learning code since i was 16
 
 🤔 I’m Not looking for help
 
 💬 Ask me about for any help
 
-📫 How to reach me:  
-    Mail me at "coradex06@gmail.com" or scroll to bottom of the page of (soon) and find CONTACT ME
+<!-- 🔭 I’m currently working on my github page : soon
 
-⚡ Fun fact: im learning code since i was 16
+👯 I’m looking to collaborate on my webpage
+
+📫 How to reach me:  
+    Mail me at "coradex06@gmail.com" or scroll to bottom of the page of (soon) and find CONTACT ME -->
 
 <!-- ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) -->
