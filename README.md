@@ -11,9 +11,7 @@
   
 # 💫About Me :
 
-🌱 I’m currently learning : Node.js and Express
-
-⚡ Fun fact: im learning code since i was 16
+🌱 I’m currently learning : TailwindCSS
 
 🤔 I’m Not looking for help
 
