@@ -29,9 +29,7 @@ export default {
 ```
 
 ### biography
-- 🔭 I’m currently working on ***null***
 - 🌱 I’m currently learning React & Tailwind
-- 📫 How to reach me: ***null***
 - ⚡ Fun fact: people say money is not everything, love is, absolutely i love money
 
 > To say that nothing is true is to realize that the foundations of society are fragile and that we must be the shepherds of our civilization. To say that everything is permitted is to understand that we are the architects of our actions, and that we must live with their consequences, whether glorious of tragic, - Ezio Auditore
