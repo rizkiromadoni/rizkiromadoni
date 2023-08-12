@@ -22,7 +22,10 @@ export default {
   tools: [
     "javascript/js",
     "reactjs/react",
-    "tailwindcss/tailwind"
+    "tailwindcss/tailwind",
+    "mysql/mysql",
+    "mongodb/mongodb",
+    "nextjs/nextjs",
   ]
 }
 
