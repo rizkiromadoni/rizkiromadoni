@@ -21,6 +21,7 @@ export default {
   lang: ["id", "en"],
   tools: [
     "javascript/js",
+    "typescript/ts",
     "reactjs/react",
     "tailwindcss/tailwind",
     "mysql/mysql",
