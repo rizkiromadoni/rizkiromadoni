@@ -22,11 +22,13 @@ export default {
   tools: [
     "javascript/js",
     "typescript/ts",
-    "reactjs/react",
-    "tailwindcss/tailwind",
-    "mysql/mysql",
+    "golang/go",
+    "php/php",
+    "mysql/mysql"
+    "postgresql/psql",
     "mongodb/mongodb",
-    "nextjs/nextjs",
+    "docker/docker",
+    "rabbitmq/rabbitmq"
   ]
 }
 
