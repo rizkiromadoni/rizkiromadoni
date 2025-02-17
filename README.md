@@ -15,7 +15,8 @@ export default {
     "postgresql/psql",
     "mongodb/mongodb",
     "docker/docker",
-    "rabbitmq/rabbitmq"
+    "rabbitmq/rabbitmq",
+    "redis/redis"
   ]
 }
 
